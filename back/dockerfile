@@ -1,5 +1,5 @@
 FROM amazoncorretto:17
-LABEL org.opencontainers.image.source=https://github.com/GraduationDku/tastyHub
+LABEL org.opencontainers.image.source=https://github.com/Chelly142/nginx-lab.git
 
 ARG JAR_FILE=./build/libs/*.jar
 
